@@ -2,10 +2,7 @@
   "auth": {
     "mmreact69080e0b": {
       "service": "Cognito",
-      "serviceType": "imported",
-      "providerPlugin": "awscloudformation",
-      "dependsOn": [],
-      "customAuth": false
+      "providerPlugin": "awscloudformation"
     }
   }
 }
